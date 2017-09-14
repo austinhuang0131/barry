@@ -39,3 +39,4 @@ client.on('message', message => {
 });
 
 client.login('token');
+// barry by Daf
