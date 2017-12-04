@@ -21,6 +21,7 @@ client.on('message', message => {
 	}
 	barry();
   } 
-},
+});
+
 client.login('token');
 // barry by Daf
