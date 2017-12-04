@@ -1,6 +1,6 @@
 {
   "name": "barry",
-  "description": "Discord bot that has one purpose: the Bee Movie script. Edit Add topics",
+  "description": "Discord bot that has one purpose: the Bee Movie script.",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
