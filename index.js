@@ -13,7 +13,7 @@ client.on('message', message => {
 		message.channel.send(script[bee]);
 		bee++;
 		if (bee < script.length) {
-			setTimeout(doNext, 500);
+			setTimeout(barry, 500);
 		}
 		else {
 			return;
